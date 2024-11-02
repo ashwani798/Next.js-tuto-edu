@@ -6,7 +6,6 @@ const LearnDataFeatching = async () => {
   const data = await getData();
   console.log("Data:", data);
   return;
-
   <>
     {data.map((post, i) => (
       <div key={i}>
