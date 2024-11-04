@@ -1,12 +1,12 @@
-import LearnUseImage from "@/components/LearmUseImage";
-import LearnClientComponent from "@/components/LearnClientComponent";
-import LearnCSSModule from "@/components/LearnCSSModule";
+// import LearnUseImage from "@/components/LearmUseImage";
+// import LearnClientComponent from "@/components/LearnClientComponent";
+// import LearnCSSModule from "@/components/LearnCSSModule";
 import LearnDataFeatching from "@/components/LearnDataFeatching";
-import LearnLink from "@/components/LearnLink";
-import LearnServerCompnent from "@/components/LearnServerCompnent";
-import LearnUseGlobalCSS from "@/components/LearnUseGlobalCSS";
-import LearnUseRouter from "@/components/LearnUseRouter";
-import Image from "next/image";
+// import LearnLink from "@/components/LearnLink";
+// import LearnServerCompnent from "@/components/LearnServerCompnent";
+// import LearnUseGlobalCSS from "@/components/LearnUseGlobalCSS";
+// import LearnUseRouter from "@/components/LearnUseRouter";
+// import Image from "next/image";
 
 export default function Home() {
   return (
